@@ -1,0 +1,31 @@
+{
+  "version": "1.0.1",
+  "storage": {
+    "id": true,
+    "locationId": true,
+    "locationNo": true,
+    "locationName": true,
+    "locationDescription": true,
+    "locationType": true,
+    "locationFloor": true,
+    "locationBlockNumber": true,
+    "containerNo": true,
+    "containerId": true,
+    "spuId": true,
+    "spuName": true,
+    "spuNo": true,
+    "spuDescription": true,
+    "spuConsumeRule": true,
+    "skuId": true,
+    "skuNo": true,
+    "skuName": true,
+    "skuDescription": true,
+    "unit": true,
+    "minInventory": true,
+    "maxInventory": true,
+    "inventory": true,
+    "status": true,
+    "operation": true,
+    "printer": true
+  }
+}
